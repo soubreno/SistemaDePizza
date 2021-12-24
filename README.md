@@ -18,4 +18,4 @@ Lembrando que é apenas para fins de estudo e foram utilizados somentes as tecno
 🔖 Responsividade
 ----------
 
-Sisteminha completamente responsilvo.
+Sisteminha completamente responsivo
